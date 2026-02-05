@@ -24,4 +24,5 @@ Welcome to my repository of Arduino projects! This repo contains various sketche
    git clone [https://github.com/Swarupraj22/Arduino.git](https://github.com/Swarupraj22/Arduino.git)
 
 
-https://th.bing.com/th/id/OIP.3SOuNSvLkP5yCiwdrOkQiQHaJ4?w=89&h=90&c=1&rs=1&qlt=70&r=0&o=7&dpr=1.3&pid=InlineBlock&rm=3
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/00b08d76-c6f4-486b-a3f3-fe10ef0e4f3d" />
+
